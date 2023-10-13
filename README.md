@@ -4,7 +4,7 @@ A brief description of your React application.
 
 ## Live Demo
 
-You can access a live demo of this project [here](https://iridescent-maamoul-9dd31b.netlify.app/).
+You can access a live demo of this project [here](https://sparkling-alfajores-9d039c.netlify.app/).
 
 ## Installation
 
@@ -13,7 +13,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Janarthanan2107/BasicCurd-React.git
+   git clone https://github.com/Janarthanan2107/studentRegister-react.git
    cd your-react-app
    ```
 
@@ -41,7 +41,7 @@ Follow these steps to get the project up and running on your local machine:
    yarn start
    ```
 
-4. Your React application should now be running locally on [http://localhost:3000](http://localhost:3000).
+4. Your React application should now be running locally on [http://localhost:5173/](http://localhost:5173/).
 
 ## Usage
 
